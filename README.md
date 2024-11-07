@@ -2,9 +2,9 @@
 ## Java
 
 **Características**
-<p>Estructura de clases: La aplicación está organizada en clases que representan diferentes componentes de una aplicación de facturación, como clientes, productos y facturas.</p>
+<p>La aplicación es una aplicación básica para mostrar la estructura de la POO en Java, está organizada en clases que representan diferentes componentes de una aplicación de facturación, como clientes, productos y facturas.</p>
 
-<p>Conceptos de POO: Este proyecto cubre conceptos fundamentales de POO, tales como:</p>
+<p>Cubre los conceptos fundamentales de POO, tales como:</p>
 
 - **Clases y Objetos:** Creación de clases para representar entidades del mundo real y generación de instancias (objetos) de esas clases.
 - **Encapsulamiento:** Uso de modificadores de acceso (private, public) para controlar la visibilidad de atributos y métodos.
